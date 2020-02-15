@@ -1,6 +1,7 @@
 tsconfig.json
 yarn.lock
-src
+src/
+example/
 
 # overrides
 lib

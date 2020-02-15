@@ -1,0 +1,11 @@
+# tsconfig.json
+# yarn.lock
+# src/
+# android/
+# ios/
+# App.js
+# .*
+# *
+
+# .gitignore overrides
+# lib
